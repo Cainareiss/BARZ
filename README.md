@@ -1,0 +1,2 @@
+# BARZ
+the algorithm has as main objective to create a functional system for nightclubs and pub and maybe for other means, the system will have a database with all available drinks/snacks/drinks and food will have a basic artificial intelligence to make necessary calculations for the transactions, the system will have a clock that will mark the time that the customer entered and the time that the customer paid their expenses, this can be used in an invoice if desired, but I am focused now on recreating and improving this project in python.
