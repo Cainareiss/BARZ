@@ -1,10 +1,5 @@
 from datetime import datetime
 
-class Cliente:
-    def __init__(self, Nome='', DT='', TL=''):
-        self.__Nome = Nome
-        self.__DT = DT
-        self.__TL = TL
 
     class Cliente:
         def __init__(self, Nome='', DT='', TL=''):
